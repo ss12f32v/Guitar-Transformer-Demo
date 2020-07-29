@@ -5,7 +5,7 @@ Recent years have witnessed great progress in using deep learning algorithms to 
 
 ### Demo audio
 
-|   |   |   |    |
+|   |Real data|No grooving|Hard grooving|
 |1.|<audio src="result/real data/0.wav" controls="" preload=""></audio>|<audio src="result/no grooving/0.wav" controls="" preload=""></audio>|<audio src="result/hard grooving/0.wav" controls="" preload=""></audio>|
 |2.|<audio src="result/real data/1.wav" controls="" preload=""></audio>|<audio src="result/no grooving/1.wav" controls="" preload=""></audio>|<audio src="result/hard grooving/1.wav" controls="" preload=""></audio>|
 |3.|<audio src="result/real data/2.wav" controls="" preload=""></audio>|<audio src="result/no grooving/2.wav" controls="" preload=""></audio>|<audio src="result/hard grooving/2.wav" controls="" preload=""></audio>|
