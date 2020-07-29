@@ -14,7 +14,7 @@ Recent years have witnessed great progress in using deep learning algorithms to 
 
 ### Demo Video
 
-<video width="320" height="240" controls>
+<video width="860" height="540" controls>
   <source src="result/playing generated tab.mp4" type="video/mp4">
 </video>
 
