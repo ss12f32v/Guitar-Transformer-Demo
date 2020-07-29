@@ -6,10 +6,11 @@ Recent years have witnessed great progress in using deep learning algorithms to 
 ### Demo audio
 
 |   |   |   |    |
-|---|<audio src="Supplement Material ISMIR2020/hard grooving/0.wav" controls="" preload=""></audio>|---|    |
-|   |   |   |    |
-|   |   |   |    |
+|1.|<audio src="Supplement Material ISMIR2020/real data/0.wav" controls="" preload=""></audio>|<audio src="Supplement Material ISMIR2020/no grooving/0.wav" controls="" preload=""></audio>|<audio src="Supplement Material ISMIR2020/hard grooving/0.wav" controls="" preload=""></audio>|
+|1.|<audio src="Supplement Material ISMIR2020/real data/1.wav" controls="" preload=""></audio>|<audio src="Supplement Material ISMIR2020/no grooving/1.wav" controls="" preload=""></audio>|<audio src="Supplement Material ISMIR2020/hard grooving/1.wav" controls="" preload=""></audio>|
+|1.|<audio src="Supplement Material ISMIR2020/real data/2.wav" controls="" preload=""></audio>|<audio src="Supplement Material ISMIR2020/no grooving/2.wav" controls="" preload=""></audio>|<audio src="Supplement Material ISMIR2020/hard grooving/2.wav" controls="" preload=""></audio>|
+|1.|<audio src="Supplement Material ISMIR2020/real data/3.wav" controls="" preload=""></audio>|<audio src="Supplement Material ISMIR2020/no grooving/3.wav" controls="" preload=""></audio>|<audio src="Supplement Material ISMIR2020/hard grooving/3.wav" controls="" preload=""></audio>|
+|1.|<audio src="Supplement Material ISMIR2020/real data/4.wav" controls="" preload=""></audio>|<audio src="Supplement Material ISMIR2020/no grooving/4.wav" controls="" preload=""></audio>|<audio src="Supplement Material ISMIR2020/hard grooving/4.wav" controls="" preload=""></audio>|
 
 
-#### *Source*
-<audio src="Supplement Material ISMIR2020/hard grooving/0.wav" controls preload></audio>
+
