@@ -12,6 +12,12 @@ Recent years have witnessed great progress in using deep learning algorithms to 
 |4.|<audio src="result/real data/3.wav" controls="" preload=""></audio>|<audio src="result/no grooving/3.wav" controls="" preload=""></audio>|<audio src="result/hard grooving/3.wav" controls="" preload=""></audio>|
 |5.|<audio src="result/real data/4.wav" controls="" preload=""></audio>|<audio src="result/no grooving/4.wav" controls="" preload=""></audio>|<audio src="result/hard grooving/4.wav" controls="" preload=""></audio>|
 
+### Demo Video
+
+<video width="320" height="240" controls>
+  <source src="result/playing generated tab.mp4" type="video/mp4">
+</video>
+
 
 
 
