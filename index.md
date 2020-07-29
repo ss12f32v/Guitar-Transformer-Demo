@@ -14,10 +14,7 @@ Recent years have witnessed great progress in using deep learning algorithms to 
 
 ### Demo Video
 
-<video width="860" height="540" controls>
-  <source src="result/playing generated tab.mp4" type="video/mp4">
-</video>
-
-
-
+<iframe width="800" height="500"
+src="https://www.youtube.com/embed/yccH6kvinq0">
+</iframe></video>
 
