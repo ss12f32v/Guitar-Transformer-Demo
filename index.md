@@ -17,3 +17,5 @@ This video recording is a guitarist from our team playing a generated tab which 
 <iframe width="800" height="500" src="https://www.youtube.com/embed/yccH6kvinq0">
 </iframe>
 
+### Contact 
+Yu-Hua Chen r08946011@ntu.edu.tw
