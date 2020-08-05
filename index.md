@@ -13,7 +13,7 @@ Recent years have witnessed great progress in using deep learning algorithms to 
 |5.|<audio src="result/real data/4.wav" controls="" preload=""></audio>|<audio src="result/no grooving/4.wav" controls="" preload=""></audio>|<audio src="result/hard grooving/4.wav" controls="" preload=""></audio>|
 
 ### Demo Video
-#### This video recording is a guitarist from our team playing a generated tab
+This video recording is a guitarist from our team playing a generated tab which is generated from scratch.
 <iframe width="800" height="500" src="https://www.youtube.com/embed/yccH6kvinq0">
 </iframe>
 
